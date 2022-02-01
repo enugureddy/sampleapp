@@ -1,0 +1,19 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enugureddy/sampleapp.git"
+  },
+  "author": "reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enugureddy/sampleapp/issues"
+  },
+  "homepage": "https://github.com/enugureddy/sampleapp#readme"
+}
